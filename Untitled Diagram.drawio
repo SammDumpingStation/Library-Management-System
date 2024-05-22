@@ -1,9 +1,197 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T15:16:45.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.4.0" etag="yolBwEDN85skcKnBpbQk" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T15:43:44.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="48PfSLrqdVSlc5DMWx8v" version="24.4.6" type="github">
   <diagram name="Page-1" id="daOz48q7mLsZBS4FevSS">
-    <mxGraphModel>
+    <mxGraphModel dx="1759" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-1" target="rY7omtopvPOVH7R0lRHQ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="210" />
+              <mxPoint x="280" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-1" target="rY7omtopvPOVH7R0lRHQ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="210" />
+              <mxPoint x="570" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-1" target="rY7omtopvPOVH7R0lRHQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-1" value="Landing Page&lt;br&gt;&lt;div&gt;(2 button to register&amp;nbsp;&lt;/div&gt;&lt;div&gt;or log in)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-5" target="rY7omtopvPOVH7R0lRHQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-5" value="START!" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-8" target="rY7omtopvPOVH7R0lRHQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-8" target="rY7omtopvPOVH7R0lRHQ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-8" target="rY7omtopvPOVH7R0lRHQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-8" value="Choose between Student or Librarian" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-12" target="rY7omtopvPOVH7R0lRHQ-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="380" />
+              <mxPoint x="450" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-12" target="rY7omtopvPOVH7R0lRHQ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-12" value="Prompts user if Student or not" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-14" value="If Register" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="305" y="188" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-15" value="If Log-in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="480" y="188" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-16" target="rY7omtopvPOVH7R0lRHQ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="540.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-16" target="rY7omtopvPOVH7R0lRHQ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-16" value="Login Form for Student User" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-18" value="If Student" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="465" y="357" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-19" value="Login Form for Librarian" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-12" target="rY7omtopvPOVH7R0lRHQ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="350" as="sourcePoint" />
+            <mxPoint x="460" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="380" />
+              <mxPoint x="690" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-21" value="If not" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="630" y="357" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-22" target="rY7omtopvPOVH7R0lRHQ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-22" target="rY7omtopvPOVH7R0lRHQ-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="420" />
+              <mxPoint x="250" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-22" value="Register page for librarian" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-24" target="rY7omtopvPOVH7R0lRHQ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="rY7omtopvPOVH7R0lRHQ-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="19.990000000000002" y="379.99" as="sourcePoint" />
+            <mxPoint x="79.99" y="349.99" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="380" />
+              <mxPoint x="10" y="400" />
+              <mxPoint x="100" y="400" />
+              <mxPoint x="100" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-24" target="rY7omtopvPOVH7R0lRHQ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-24" value="Register page for student" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-26" value="If Student" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="25" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-27" value="If Librarian" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="155" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-28" value="landing_page.php" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-30" value="register_choose.php" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="195" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-33" value="register_student.php" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="335" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-35" value="register_librarian.php" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="335" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-37" value="login_choose.php" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="305" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-44" value="&lt;div&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;If something&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;goes wrong,&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;return&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="90" y="352" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-50" value="&lt;div&gt;If all goes well proceed&lt;/div&gt;&lt;div&gt;&amp;nbsp;to login&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="150" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-52" value="&lt;div&gt;The same premise&amp;nbsp;&lt;/div&gt;&lt;div&gt;will apply for&lt;/div&gt;&lt;div&gt;&amp;nbsp;registering as&amp;nbsp;&lt;/div&gt;&lt;div&gt;librarian&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="241" y="375" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-55" value="&lt;div&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;If something&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;goes wrong,&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;return&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-56" value="Dashboard&lt;br&gt;(Student Version)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-58" value="&lt;div&gt;If all goes well proceed&lt;/div&gt;&lt;div&gt;&amp;nbsp;to dashboard&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rY7omtopvPOVH7R0lRHQ-19" target="rY7omtopvPOVH7R0lRHQ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="704.76" y="479.51" as="sourcePoint" />
+            <mxPoint x="764.76" y="449.51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-60" value="&lt;div&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;If something&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;goes wrong,&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;return&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="760" y="430" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-61" value="Dashboard&lt;br&gt;(Librarian Version)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689.74" y="460" as="sourcePoint" />
+            <mxPoint x="689.74" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rY7omtopvPOVH7R0lRHQ-63" value="&lt;div&gt;If all goes well proceed&lt;/div&gt;&lt;div&gt;&amp;nbsp;to dashboard&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="570" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
