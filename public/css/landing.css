@@ -1,9 +1,9 @@
 .landing-nav {
   position: relative;
-  border: 1px solid red;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 4.5rem;
 }
 
 .landing-title {
@@ -25,11 +25,39 @@
   border-radius: 5px;
 }
 
-main {
+main, section {
   display: flex;
 }
 
 section {
-  border: 1px solid blue;
   flex-basis: 100%;
+}
+
+.landing-left {
+  flex-direction: column;
+}
+
+.left-title {
+  font-size: 3.5rem;
+  font-weight: 600;
+  margin-top: auto;
+  max-width: 15ch;
+}
+
+.left-description {
+  margin-top: 1rem;
+  line-height: 30px;
+  max-width: 38ch;
+  margin-bottom: 2.5rem;
+}
+
+.landing-button {
+  margin-bottom: auto;
+  padding-block: 16px;
+  max-width: 430px;
+  border-radius: 5px;
+}
+
+.landing-img {
+  margin-left: auto;
 }

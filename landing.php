@@ -18,12 +18,12 @@
 
   <main>
     <section class="landing-left">
-      <h1>Borrow books in seconds.</h1>
-      <p>Borrow books from the university without waiting in line. A few clicks and you're ready to go!</p>
-      <button class="button-main">Start Now</button>
+      <h1 class="left-title">Borrow books in seconds.</h1>
+      <p class="left-description">Borrow books from the university without waiting in line. A few clicks and you're ready to go!</p>
+      <button class="button-main landing-button">Start Now</button>
     </section>
     <section class="landing-right">
-      <img src="/public/images/landing-img.png" alt="Man in Library">
+      <img class="landing-img" src="/public/images/landing-img.png" alt="Man in Library">
     </section>
   </main>
 </body>
