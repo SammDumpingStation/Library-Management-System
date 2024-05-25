@@ -1,6 +1,7 @@
 :root {
   --main-white: #F2F2F8;
   --main-black: #1f1f29;
+  --main-green: #118A00;
   --main-grey: #A5A5A5;
   --secondary-grey: #E9E9E9;
 }
@@ -24,6 +25,7 @@ body {
   color: var(--main-black);
   padding: 3rem 9.375rem;
   min-height: 100vh;
+  padding-bottom: 1000px;
 }
 
 img, picture, svg, video {
@@ -31,3 +33,14 @@ img, picture, svg, video {
   max-width: 100%;
 }
 
+button {
+  cursor: pointer;
+  font-weight: 500;
+  border: none;
+}
+
+.button-main {
+  color: var(--main-white);
+  background-color: var(--main-green);
+  color: var(--main-white);
+}

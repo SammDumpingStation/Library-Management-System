@@ -10,10 +10,21 @@
 <body>
   <header>
     <nav class="landing-nav">
-      <h1>LIBRA</h1>
-      <button>Sign-up</button>
-      <button>Log-in</button>
+      <h1 class="landing-title">LIBRA</h1>
+      <button class="signup-button">Sign-up</button>
+      <button class="login-button button-main">Log-in</button>
     </nav>
   </header>
+
+  <main>
+    <section class="landing-left">
+      <h1>Borrow books in seconds.</h1>
+      <p>Borrow books from the university without waiting in line. A few clicks and you're ready to go!</p>
+      <button class="button-main">Start Now</button>
+    </section>
+    <section class="landing-right">
+      <img src="/public/images/landing-img.png" alt="Man in Library">
+    </section>
+  </main>
 </body>
 </html>

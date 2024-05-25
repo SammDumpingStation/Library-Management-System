@@ -1,0 +1,35 @@
+.landing-nav {
+  position: relative;
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.landing-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  letter-spacing: 10px;
+  position: absolute;
+}
+
+.signup-button {
+  margin-left: auto;
+  border: none;
+  background: none;
+  margin-right: 1rem;
+}
+
+.login-button {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+main {
+  display: flex;
+}
+
+section {
+  border: 1px solid blue;
+  flex-basis: 100%;
+}
