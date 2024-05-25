@@ -1,0 +1,33 @@
+:root {
+  --main-white: #F2F2F8;
+  --main-black: #1f1f29;
+  --main-grey: #A5A5A5;
+  --secondary-grey: #E9E9E9;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+html {
+  font-family: 'Inter', 'Montserrat', 'Arial', sans-serif;
+}
+
+body {
+  background-color: var(--main-white);
+  color: var(--main-black);
+  padding: 3rem 9.375rem;
+  min-height: 100vh;
+}
+
+img, picture, svg, video {
+  display: block;
+  max-width: 100%;
+}
+
