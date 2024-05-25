@@ -1,0 +1,34 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth-title {
+  margin-bottom: 9rem; 
+}
+
+.auth-account {
+  padding: 12px 12px 32px 24px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  border: 2px solid var(--main-grey);
+}
+
+.radio-button {
+  width: 24px;
+  height: 24px;
+  align-self: flex-end;
+}
+
+.auth-state {
+  margin-right: 55px;
+  margin-top: 16px;
+  font-size: 21px;
+  font-weight: 600;
+  max-width: 10.3ch;
+}

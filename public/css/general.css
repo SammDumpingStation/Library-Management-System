@@ -25,6 +25,7 @@ body {
   color: var(--main-black);
   padding: 3rem 9.375rem;
   min-height: 100vh;
+  margin-bottom: 1000px;
 }
 
 img, picture, svg, video {
@@ -42,4 +43,10 @@ button {
   color: var(--main-white);
   background-color: var(--main-green);
   color: var(--main-white);
+}
+
+.libra {
+  font-size: 2.5rem;
+  font-weight: 600;
+  letter-spacing: 10px;
 }
